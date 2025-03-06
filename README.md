@@ -138,11 +138,6 @@ npm run start
 - PostgreSQL Database: localhost:5432
 - Redis: localhost:6379
 
-## Environment Variables
-
-Key environment variables in `.env`:
-
-```env
 # Database
 DATABASE_URL="postgres://postgres:root@localhost:5432/app_db"
 
